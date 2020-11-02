@@ -1,4 +1,4 @@
-[submodule "subrepo" ""]
+[submodule "subrepo" ]
 	path = subrepo
 	url = https://github.com/dangolden153/chat-app.git
 

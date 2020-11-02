@@ -1,3 +1,4 @@
 [submodule "subrepo"]
 	path = subrepo
 	url = https://github.com/dangolden153/subrepo.git
+	server = https://dan-chatapp.herokuapp.com
